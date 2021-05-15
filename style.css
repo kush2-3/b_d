@@ -1,0 +1,18 @@
+#bg{
+    background: url("https://pixabay.com/get/g74c1b6929880ee221c1ebb33cad62a811d9d08e617b362c368c115ac5f7a6bf6accf5d12f1483ce33b1f1d8d75119d08.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;;
+}
+#head{
+    text-decoration: wavy;
+    text-shadow: 3px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: aliceblue;
+    animation-timing-function: cubic-bezier(0.165, 0.84, 0.44, 1);
+}
+#span{
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+}
